@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountryApplication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="country">Country</string>
+    <string name="code">Code :</string>
+    <string name="total_cities">Total Cities : </string>
+    <string name="total_iso_divisions">Total ISO Divisions : </string>
+    <string name="internet_connection_check">Please Check Your Internet Connection</string>
+    <string name="independent">Independent :</string>
+    <string name="total_adm_divisions">Total_ADM_Divisions</string>
+    <string name="geo_name_id">Geo Name ID :</string>
+</resources>
